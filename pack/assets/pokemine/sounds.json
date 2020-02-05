@@ -1,0 +1,26 @@
+{
+	"pokemon.bulbasaur.ambient": {
+		"sounds": [
+			"pokemon/bulbasaur/ambient1",
+			"pokemon/bulbasaur/ambient2"
+		]
+	},
+	"pokemon.squirtle.ambient": {
+		"sounds": [
+			"pokemon/squirtle/ambient1",
+			"pokemon/squirtle/ambient2"
+		]
+	},
+	"pokemon.pikachu.ambient": {
+		"sounds": [
+			"pokemon/pikachu/ambient1",
+			"pokemon/pikachu/ambient2"
+		]
+	},
+	"pokemon.slowpoke.ambient": {
+		"sounds": [
+			"pokemon/slowpoke/ambient1",
+			"pokemon/slowpoke/ambient2"
+		]
+	}
+}

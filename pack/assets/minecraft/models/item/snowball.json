@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/snowball"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/pokeball"},
+		{"predicate": {"custom_model_data":2}, "model": "item/great_ball"},
+		{"predicate": {"custom_model_data":3}, "model": "item/ultra_ball"},
+		{"predicate": {"custom_model_data":4}, "model": "item/tm"}
+	]
+}

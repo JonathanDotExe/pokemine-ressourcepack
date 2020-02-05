@@ -1,0 +1,13 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/glass_bottle"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/normal_potion"},
+		{"predicate": {"custom_model_data":2}, "model": "item/normal_potion"},
+		{"predicate": {"custom_model_data":3}, "model": "item/normal_potion"},
+		{"predicate": {"custom_model_data":4}, "model": "item/revive"},
+		{"predicate": {"custom_model_data":5}, "model": "item/full_heal"}
+	]
+}
