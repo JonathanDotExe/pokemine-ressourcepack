@@ -57,6 +57,7 @@
 		{"predicate": {"custom_model_data":25}, "model": "item/pikachu_025"},
 		{"predicate": {"custom_model_data":35}, "model": "item/clefairy_035"},
 		{"predicate": {"custom_model_data":58}, "model": "item/growlithe_058"},
+		{"predicate": {"custom_model_data":59}, "model": "item/arcanine_059"},
 		{"predicate": {"custom_model_data":66}, "model": "item/machop_066"},
 		{"predicate": {"custom_model_data":67}, "model": "item/machoke_067"},
 		{"predicate": {"custom_model_data":74}, "model": "item/geodude_074"},
