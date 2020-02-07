@@ -65,6 +65,7 @@
 		{"predicate": {"custom_model_data":76}, "model": "item/golem_076"},
 		{"predicate": {"custom_model_data":79}, "model": "item/slowpoke_079"},
 		{"predicate": {"custom_model_data":80}, "model": "item/slowbro_080"},
+		{"predicate": {"custom_model_data":88}, "model": "item/grimer_088"},
 		{"predicate": {"custom_model_data":92}, "model": "item/ghastly_092"},
 		{"predicate": {"custom_model_data":93}, "model": "item/haunter_093"},
 		{"predicate": {"custom_model_data":94}, "model": "item/gengar_094"},
