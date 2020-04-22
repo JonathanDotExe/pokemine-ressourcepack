@@ -44924,5 +44924,21 @@
 				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#Voxel-F4CD5E" }
 			}
 		}
-	]
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 0, 55, 0 ],
+			"translation":  [ -1, -2, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ 0, -22, -10 ],
+			"scale":  [ 2, 2, 2 ]
+		},
+		"fixed": {
+			"translation":  [ -3, 0, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
 }
