@@ -41932,7 +41932,8 @@
 		},
 		"head": {
 			"rotation":  [ 0, 180, 0 ],
-			"translation":  [ 0.5, -32, 0 ]
+			"translation":  [ 0.5, -26, 0 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
 		},
 		"fixed": {
 			"rotation":  [ 0, 180, 0 ],

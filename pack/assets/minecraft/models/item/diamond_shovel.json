@@ -70,6 +70,7 @@
 		{"predicate": {"custom_model_data":93}, "model": "item/haunter_093"},
 		{"predicate": {"custom_model_data":94}, "model": "item/gengar_094"},
 		{"predicate": {"custom_model_data":95}, "model": "item/onix_095"},
+		{"predicate": {"custom_model_data":96}, "model": "item/drowzee_096"},
 		{"predicate": {"custom_model_data":102}, "model": "item/exeggcute_102"},
 		{"predicate": {"custom_model_data":103}, "model": "item/exeggutor_103"},
 		{"predicate": {"custom_model_data":131}, "model": "item/lapras_131"},
